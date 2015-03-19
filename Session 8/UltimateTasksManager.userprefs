@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="UltimateTasksManager/UltimateTasksManager.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UltimateTasksManager/Controller/AddTaskTableViewController.cs">
+    <Files>
+      <File FileName="UltimateTasksManager/Controller/TasksViewController.cs" Line="1" Column="1" />
+      <File FileName="UltimateTasksManager/Model/TasksCollection.cs" Line="1" Column="1" />
+      <File FileName="UltimateTasksManager/Model/TasksTableViewSource.cs" Line="1" Column="1" />
+      <File FileName="UltimateTasksManager/Model/WeatherModel.cs" Line="1" Column="1" />
+      <File FileName="UltimateTasksManager/Controller/TaskDetailViewController.cs" Line="1" Column="1" />
+      <File FileName="UltimateTasksManager/Controller/AddTaskTableViewController.cs" Line="47" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
