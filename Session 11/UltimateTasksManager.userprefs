@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="UltimateTasksManager/UltimateTasksManager.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UltimateTasksManager/Controller/PongGameController.cs">
+    <Files>
+      <File FileName="UltimateTasksManager/View/DetailViewSegue.cs" Line="22" Column="24" />
+      <File FileName="UltimateTasksManager/Controller/PongGameController.cs" Line="127" Column="38" />
+      <File FileName="UltimateTasksManager/Controller/TasksViewController.cs" Line="151" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
